@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Features
+- Update README.md. ([2](https://github.com/BinodNexus/GithubActionChangelog/pull/2))
+
 ### Bug Fixes
 - Added Bug 1 in Readme.md. ([1](https://github.com/BinodNexus/GithubActionChangelog/pull/1))
 
