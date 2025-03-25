@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Bug fixed three. ([#5](https://github.com/BinodNexus/GithubActionChangelog/pull/5))
 
 ### Improvements
+- Page three improvement. ([#6](https://github.com/BinodNexus/GithubActionChangelog/pull/6))
 
 ---
 
