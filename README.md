@@ -8,3 +8,4 @@ Bug 2
 
 New feature added
 Bug fixed 3
+page 3 improvement
