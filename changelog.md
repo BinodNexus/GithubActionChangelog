@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - new feature added. ([#4](https://github.com/BinodNexus/GithubActionChangelog/pull/4))
 
 ### Bug Fixes
+- Bug fixed three. ([#5](https://github.com/BinodNexus/GithubActionChangelog/pull/5))
 
 ### Improvements
 
